@@ -1,0 +1,18 @@
+.product-container{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+}
+.product-container img{
+    width: 250px;
+}
+.course-body{
+    margin-left: 50px;
+}
+.course-body button{
+    width: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: #000;
+    color: white;
+    cursor: pointer;
+}

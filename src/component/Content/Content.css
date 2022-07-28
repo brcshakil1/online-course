@@ -1,0 +1,39 @@
+.content{
+    width: 80%;
+    margin: 0px auto;
+    border-bottom: 1px solid grey;
+}
+.part1{
+    width: 600px;
+    text-align: center;
+    margin: 0px auto;
+}
+.part1 button{
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    width: 200px;
+}
+.part2{
+    display: flex;
+    margin-top: 100px;
+    width: 900px;
+
+}
+.part2 img{
+    width: 300px;
+    height: 350px;
+    
+}
+.part2 div{
+    margin-left: 150px;
+    
+}
+.part2 button{
+    width: 350px;
+    height: 40px;
+    margin-bottom: 20px;
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+}

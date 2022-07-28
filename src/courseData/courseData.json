@@ -1,0 +1,65 @@
+[
+    {
+        "name": "A Mini Course on Time Management",
+        "key": "1",
+        "summery": "7 steps you can use immediately to become more productive and master time management",
+        "img": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN",
+        "price": "49.99"
+    },
+
+    {
+        "name": "How to speak to anyone & be fearless - in less than 55 min",
+        "key": "2",
+        "summery": "Learn to quickly connect with crowds of strangers, be better on dates or ace that job interview.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_0SeBU-QmjHYpbXYO7SSEcxAQJKm1ZWnUw&usqp=CAU",
+        "price": "29.99"
+    },
+
+    { 
+        "name": "7 Scientifically Proven Steps to Increase Your Influence",
+        "key": "3",
+        "summery": "Learn the science of charisma. Increase your impact, influence and income using 7 science based steps.",  
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo2T2ZBT-NwgEX9O5yuTB8Gj7TeFUiEoKxEg&usqp=CAU",
+        "price": "59.99"
+    },
+
+    {
+        "name": "'Introductory Photography Course'",
+        "key": "4",
+        "summery": "The fastest way to get off Auto mode and unlock the creative potential of your camera.", 
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQzWF8GbPJwk3jzKu3kDUDVU-CA5kxQTOxw&usqp=CAU&reload=on", 
+        "price": "19.99"
+    },
+
+    {
+        "name": "Art Fundamentals - Building Blocks of Digital Painting",
+        "key": "5",
+        "summery": "A beginner's guide to the building blocks of digital art", 
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzMxdMqenSmcfInhA75FEcq6Dxi15q3JvpJQ&usqp=CAU", 
+        "price": "9.99"
+    },
+
+    {
+        "name": "HTML5 and CSS3 Fundamentals",
+        "key": "6",
+        "summery": "Build your very own website with HTML5 from scratch using HTML5 and CSS3 - designed for complete beginners",  
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjgo-luxmUOfM_5wnBeCuukzKOxzH6grR2lg&usqp=CAU",
+        "price": "79.99"
+    },
+
+    {
+        "name": "Git & GitHub Crash Course: Create a Repository From Scratch!", 
+        "key": "7",
+        "summery": "Learn how to create a Git repository, clone it, make changes, and submit changes to GitHub in less than 30 minutes.",  
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojco-XaQgs31Nupvs5TbV8VTQqKONiuH72w&usqp=CAU",
+        "price": "69.99"
+    },
+    
+    {
+        "name": "Code Your First Game: Arcade Classic in JavaScript on Canvas", 
+        "key": "8",
+        "summery": "Program a complete game today. No special software or install required. All you need is a text editor and a web browser.", 
+        "img": "https://timesofindia.indiatimes.com/thumb/msid-75825947,imgsize-8881,width-400,resizemode-4/75825947.jpg",
+        "price": "89.99"
+    }  
+]
